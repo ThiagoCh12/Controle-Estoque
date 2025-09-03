@@ -1,0 +1,12 @@
+# Ignorar pasta de classes compiladas
+bin/
+*.class
+
+# Configurações do Eclipse
+.settings/
+*.log
+*.tmp
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
